@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "boome",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "BOOMSMP-wT4b.aternos.me",
+    "port": 47959,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
